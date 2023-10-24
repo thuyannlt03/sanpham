@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    color: mediumaquamarine;
+    font-family: 'Times New Roman';
+    box-sizing: inherit;
+    margin-top: 10px;
+}
+
+h3 {
+    color: black;
+    font-family: 'Times New Roman';
+    margin-top: 10px;
+    margin-bottom: 5px;
+
+}
+
+h2 {
+    color: black;
+    font-family: 'Times New Roman';
+    margin-top: 70px;
+
+}
+
+img {
+    padding: auto;
+    margin: 10px;
+    border-radius: 0px;
+}
